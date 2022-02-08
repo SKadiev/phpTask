@@ -1,0 +1,10 @@
+{
+    "name": "tote/php-task",
+    "authors": [
+        {
+            "name": "Stojan Kadiev",
+            "email": "kadievstojan@gmail.com"
+        }
+    ],
+    "require": {}
+}
